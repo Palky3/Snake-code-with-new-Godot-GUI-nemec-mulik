@@ -1,0 +1,7 @@
+res://default_env.tres
+res://scenes/Main.tscn
+res://scenes/Main.gd
+res://scenes/SnakeSegment.tscn
+res://scenes/game_over_menu.gd
+res://scenes/game_over_menu.tscn
+res://scenes/Hud.tscn
